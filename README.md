@@ -33,12 +33,19 @@ AIの内部処理を「情緒層・論理層・メタ認知層」に分離。モ
 (ここにarXivなどのリンクを貼る予定)
 
 ## Contents
-/paper
-  - Research paper (PDF)
+/demo_prompt
+  - demo_prompt.txt
 
-/appendix
-  - Reproducible examples
-  - Prompt templates
+/paper
+  - 01_MainPaper.pdf
+  - 02_Appendix.pdf
+
+/prompt
+  - 01_johnny_prompt.txt
+  - 02_tatsuno_prompt.txt
+  - 03_claire_prompt.txt
+  - 04_before_prompt.txt
+  - 05_after_prompt.txt
 
 ## 貢献者 (Contributors)
 設計者 (sakae0009): 開発・執筆・精査・プロジェクト全体運用  
