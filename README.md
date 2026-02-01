@@ -57,6 +57,16 @@ The technical considerations underlying this research are organized step-by-step
 
 Zenn：
 
+
+note：
+
+
+## LICENSE
+© 2026 sakae. All rights reserved.
+本リポジトリは、特記のない限り MIT License の下で公開されています。
+
+This repository is released under the MIT License unless otherwise noted.
+
 ## Contents
 /demo_prompts
   - demo_prompt.txt
@@ -73,7 +83,7 @@ Zenn：
   - 04_before_prompt.txt
 
 ## 貢献者 (Contributors)
-設計者 (sakae0009)：開発・執筆・精査・プロジェクト全体運用  
+設計者 (sakae)：開発・執筆・精査・プロジェクト全体運用  
 ジョニー(Gemini)：開発・試行・発散  
 タツノ(ChatGPT)：統合・評価  
 クレア(Claude)：純化・選別
