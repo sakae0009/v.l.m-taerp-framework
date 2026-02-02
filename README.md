@@ -62,7 +62,7 @@ note：
 
 
 ## LICENSE
-© 2026 sakae. All rights reserved.
+© 2026 sakae. All rights reserved.  
 本リポジトリは、特記のない限り MIT License の下で公開されています。
 
 This repository is released under the MIT License unless otherwise noted.
