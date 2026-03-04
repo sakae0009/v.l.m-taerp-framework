@@ -61,6 +61,9 @@ https://zenn.dev/sakae0009/articles/e389e8c6bf3dd4
 note：
 https://note.com/sakae0009/n/nec09b9c24488?sub_rt=share_pw
 
+本研究のDOI：
+https://doi.org/10.5281/zenodo.18868549
+
 ## LICENSE
 © 2026 sakae. All rights reserved.  
 本リポジトリは、特記のない限り MIT License の下で公開されています。
