@@ -56,10 +56,10 @@ beyond surface-level tone such as politeness, allowing readers to intuitively ex
 The technical considerations underlying this research are organized step-by-step in the article below.
 
 Zenn：
-
+https://zenn.dev/sakae0009/articles/e389e8c6bf3dd4
 
 note：
-
+https://note.com/sakae0009/n/nec09b9c24488?sub_rt=share_pw
 
 ## LICENSE
 © 2026 sakae. All rights reserved.  
